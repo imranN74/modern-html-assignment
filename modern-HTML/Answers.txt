@@ -1,0 +1,68 @@
+Q1. List out the  features of HTML5.
+
+Ans - HTML5 introduces new faetures and enhancement,some features are as folows:
+	
+	a. Semantic Elements:
+		Introduces new semantic elements like <header>, <nav>, <article>, <section>, <aside>, <footer>, etc,
+		 which provide a clearer structure to the document.
+
+	b. Multimedia Support:
+		Native support for audio and video elements with <audio> and <video> tags.
+		The <canvas> element for drawing graphics, animations, and charts.
+
+	c. Form Controls:
+		New input types like email, url, number, tel, etc.
+		New attributes for form validation like required, pattern, and others.
+		<datalist> element for providing a pre-defined list of options for input fields.
+
+	d. Responsive Design:
+		Media queries for adapting the layout based on the characteristics of the device, such as screen size, resolution, etc.
+
+
+Q2. What are HTML Entities? List out 5 commonly used HTML entities.
+
+Ans - HTML entities are special codes that represent reserved characters and symbols in HTML. 
+	Such as '<', '>', '&', etc., or characters that may not be easily typable on a standard keyboard. 
+	Here are five commonly used HTML entities:
+
+	(i). Less Than Sign (<)"&lt;":
+			Represents the less-than sign <. Used to display the < character without initiating an HTML tag.
+
+	(ii). Greater Than Sign (>)"&gt;":
+			Represents the greater-than sign >. Used to display the > character without closing an HTML tag.
+
+	(iii).Ampersand (&)"&amp;":
+			Represents the ampersand &. Used to display the & character without starting an HTML entity.
+
+	(iv). Double Quotation Mark (")"&quot;":
+			Represents the double quotation mark ". Used to display the " character within attribute values.	
+
+	(v). Single Quotation Mark (')"&apos;":
+			Represents the single quotation mark '. Used to display the ' character within attribute values.
+
+Q3. Define accessibility in the context of web development. 
+    Discuss why it's essential to create accessible websites and how it benefits different user group?
+
+Ans - Accessibility in the context of web development refers to the practice of designing and developing websites and web applications
+	in a way that ensures they are usable and accessible to people of all abilities, including those with disabilities.
+	The goal is to provide a positive and inclusive user experience for everyone, regardless of their physical or cognitive abilities.
+	Accessibility ensures that people with disabilities can access and interact with web content. 
+	This inclusivity aligns with the principles of equal access and equal opportunity for all users.Creating accessible websites 
+	broadens the potential audience. People with various disabilities, as well as older individuals with changing abilities, 
+	benefit from accessible design, resulting in a more diverse and expanded user base.
+
+Q4. List any 3 ways which help us in improving the accessibility of HTML.
+
+Ans - Three ways which can help us in improving the accessibilty of HTML are:
+	
+	(i). Use Semantic HTML - Semantic HTML elements provide meaningful structure to web content,
+	     making it easier for users with disabilities to navigate and understand the information.
+
+	(ii). Provide Alternative Text for Images - Include descriptive alternative text for images using the 'alt' attribute. 
+		This text is read by screen readers and provides context and information about the image.
+
+	(iii). Ensure Keyboard Accessibility - Make sure that all interactive elements on the page are accessible via keyboard navigation.
+		 This is crucial for users who rely on keyboards or other assistive technologies.
+
+
+	
